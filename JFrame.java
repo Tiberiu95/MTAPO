@@ -52,9 +52,6 @@ public class JFrame extends javax.swing.JFrame {
                                                                         // icon
             choices, // Array of choices
             choices[1]); // Initial choice
-    /*if(input ==null){
-        input="English";
-    }*/
      
     if(input=="English"){  
         lang="en"; country="US";
